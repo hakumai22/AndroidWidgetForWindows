@@ -1,1 +1,2 @@
-# hakumai22_repos
+# This Application is alpha version.
+# このアプリは開発段階です...
