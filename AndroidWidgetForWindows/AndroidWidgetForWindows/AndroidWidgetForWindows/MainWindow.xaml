@@ -8,7 +8,8 @@
         Title="AndroidWidgetForWindows" Height="500" Width="800"
         ResizeMode="NoResize"
         Icon="/widget.png"
-        ContentRendered="Window_ContentRendered">
+        ContentRendered="Window_ContentRendered"
+        >
     <Window.Resources>
         <Style x:Key="FocusVisual">
             <Setter Property="Control.Template">
@@ -45,7 +46,7 @@
                         </Border>
                         <ControlTemplate.Triggers>
                             <Trigger Property="IsDefaulted" Value="true">
-                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="#00000000"/>
                             </Trigger>
                             <Trigger Property="IsMouseOver" Value="true">
                                 <Setter Property="Background" TargetName="border" Value="#50606060"/>
@@ -53,7 +54,7 @@
                             </Trigger>
                             <Trigger Property="IsPressed" Value="true">
                                 <Setter Property="Background" TargetName="border" Value="#20000000"/>
-                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="#00000000"/>
                             </Trigger>
                             <Trigger Property="IsEnabled" Value="false">
                                 <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
@@ -93,20 +94,26 @@
 
         <Label Grid.Column="1" Content="AndroidWidgetForWindows" HorizontalAlignment="Left" VerticalAlignment="Center" Height="60" Width="314" FontSize="24" FontWeight="Bold" Grid.ColumnSpan="2"/>
         <Label Content=" ver. Alpha" Grid.Column="1" Margin="0,30,26,0" RenderTransformOrigin="-1.083,0.477"/>
-        <Image HorizontalAlignment="Center" Height="62" VerticalAlignment="Center" Width="60" Source="/import.png" Grid.Row="1"/>
-        <Image HorizontalAlignment="Center" Height="63" VerticalAlignment="Center" Width="62" RenderTransformOrigin="-0.045,0.094" Source="/widget.png"/>
-        <Rectangle Grid.ColumnSpan="3" Grid.RowSpan="2" Stroke="Black" Margin="0,62,635,0"/>
+        <Image HorizontalAlignment="Center" Height="62.5" VerticalAlignment="Center" Width="62.5" Source="/import.png" Grid.Row="1"/>
+        <Image HorizontalAlignment="Center" Height="62.5" VerticalAlignment="Center" Width="62.5" RenderTransformOrigin="0,0.094" Source="/widget.png"/>
+        <Rectangle Grid.ColumnSpan="3" Grid.RowSpan="2" Stroke="Black" Margin="0,62.5,635,0"/>
         <Rectangle HorizontalAlignment="Center" Height="64" Stroke="Black" VerticalAlignment="Center" Width="103" Grid.Row="1" Grid.Column="1"/>
-        <Label Content="   import" Margin="62,10,635,10" Grid.Row="1" Grid.ColumnSpan="3" FontSize="18" Foreground="White"/>
-        <Rectangle HorizontalAlignment="Left" Height="62" Stroke="Black" VerticalAlignment="Center" Width="62"/>
-        <Label Content="Label" Grid.Column="2" Margin="0,2,573,62" Grid.RowSpan="2" Grid.Row="1"/>
-        <Label Content="  Home" Grid.Column="2" Grid.ColumnSpan="2" Margin="267,62,268,0" Grid.RowSpan="2" RenderTransformOrigin="0.572,-0.064" Width="100" Height="63" FontSize="24"/>
-        <Label Content="      Import" Margin="62,16,317,14" Grid.ColumnSpan="3" FontWeight="Bold" Grid.Row="1"/>
-        <Image HorizontalAlignment="Center" Height="62" Grid.Row="2" VerticalAlignment="Center" Width="62" Source="/coding.png"/>
-        <Label Content=" Development" Grid.ColumnSpan="2" Margin="0,15,317,15" Grid.Row="2" Grid.Column="1" FontWeight="Bold"/>
-        <Rectangle Grid.RowSpan="2" Stroke="Black" Margin="0,0,0,62" Grid.Row="2" Width="62" Height="62"/>
+        <Label Content="  import" Margin="62,10,635,10" Grid.Row="1" Grid.ColumnSpan="3" FontSize="18" Foreground="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="62.5" Stroke="Black" VerticalAlignment="Center" Width="62.5"/>
+        <Label Content="Label" Grid.Column="2" Margin="0,0,573,62.5" Grid.RowSpan="2" Grid.Row="1"/>
+        <Label Content="  Home" Grid.Column="2" Grid.ColumnSpan="2" Margin="267,62.5,268,0" Grid.RowSpan="2" RenderTransformOrigin="0.572,-0.064" Width="100" Height="62.5" FontSize="24"/>
+        <Label Content="        Import" Margin="62.5,16,317,14" Grid.ColumnSpan="3" FontWeight="Bold" Grid.Row="1"/>
+        <Image HorizontalAlignment="Center" Height="62.5" Grid.Row="2" VerticalAlignment="Center" Width="62.5" Source="/coding.png"/>
+        <Label Content="   Development" Grid.ColumnSpan="2" Margin="0,15,317,15" Grid.Row="2" Grid.Column="1" FontWeight="Bold"/>
+        <Rectangle Grid.RowSpan="2" Stroke="Black" Margin="0,0,0,62.5" Grid.Row="2" Width="62.5" Height="62.5"/>
         <Frame x:Name="Frame1" NavigationUIVisibility="Hidden" Grid.Column="2" Grid.RowSpan="7" Grid.ColumnSpan="2" Width="637.5" Height="437.5" Grid.Row="1"/>
-        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,62,316,62" Grid.RowSpan="3" Grid.ColumnSpan="3" Background="#01010101"/>
-        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,0,316,0" Grid.ColumnSpan="3" Background="#01010101" Grid.Row="2" Width="165.5" Height="62"/>
+        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,62.5,316,62.5" Grid.RowSpan="3" Grid.ColumnSpan="3" Background="#01010101"/>
+        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,0,316,0" Grid.ColumnSpan="3" Background="#01010101" Grid.Row="2" Width="165.5" Height="62.5"/>
+        <Label Content="     Download" Grid.ColumnSpan="3" Margin="62.5,18,317,18" Grid.Row="3"/>
+
+        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,0,317,0" Grid.Row="3" Grid.ColumnSpan="3" Background="#01010101"/>
+        <Image Grid.Row="3" Width="62" Height="62" Source="/downloads.png"/>
+        <Rectangle Grid.RowSpan="2" Stroke="Black" Margin="0,62,0,0" Grid.Row="2"/>
+        <Button Content="" Style="{DynamicResource ButtonStyle1}" Background="#01010101" Click="Button_Click"/>
     </Grid>
 </Window>
