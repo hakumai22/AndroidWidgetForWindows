@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|c:\\users\\coro5\\source\\repos\\androidwidgetforwindows\\androidwidgetforwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|solutionrelative:androidwidgetforwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|c:\\users\\coro5\\source\\repos\\androidwidgetforwindows\\androidwidgetforwindows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|solutionrelative:androidwidgetforwindows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|c:\\users\\coro5\\source\\repos\\androidwidgetforwindows\\androidwidgetforwindows\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|solutionrelative:androidwidgetforwindows\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|c:\\users\\coro5\\source\\repos\\androidwidgetforwindows\\androidwidgetforwindows\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|solutionrelative:androidwidgetforwindows\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\Page1.xaml",
+              "RelativeDocumentMoniker": "AndroidWidgetForWindows\\Page1.xaml",
+              "ToolTip": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\Page1.xaml",
+              "RelativeToolTip": "AndroidWidgetForWindows\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-31T06:48:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AndroidWidgetForWindows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml",
+              "RelativeToolTip": "AndroidWidgetForWindows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-31T15:07:20.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6ec4da8b-0ae0-4962-b2f6-992d0575c0e2",
+        "Display": 0,
+        "X": 831,
+        "Y": 55,
+        "Width": 768,
+        "Height": 989,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AndroidWidgetForWindows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AndroidWidgetForWindows\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T12:27:28.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "54366ad8-5e54-4fdc-8e71-2b713484824d",
+        "Display": 0,
+        "X": 1034,
+        "Y": 611,
+        "Width": 1077,
+        "Height": 995,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AndroidWidgetForWindows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\coro5\\source\\repos\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml",
+              "RelativeToolTip": "AndroidWidgetForWindows\\MainWindow.xaml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-04T12:33:56.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

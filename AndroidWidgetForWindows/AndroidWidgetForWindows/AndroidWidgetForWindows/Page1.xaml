@@ -1,0 +1,15 @@
+﻿<Page x:Class="AndroidWidgetForWindows.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AndroidWidgetForWindows"
+      mc:Ignorable="d" 
+      d:DesignHeight="437.5" d:DesignWidth="637.5"
+      Title="Page1" Background="Gray">
+
+    <Grid>
+        <Label Content="                   Hello!" Margin="0,182,0,182" FontSize="48"/>
+
+    </Grid>
+</Page>
