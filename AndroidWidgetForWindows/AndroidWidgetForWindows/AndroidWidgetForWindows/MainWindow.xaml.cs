@@ -30,5 +30,12 @@ namespace AndroidWidgetForWindows
         {
             Frame1.Navigate(Uri1);
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            var win = new Window1();
+            win.Show();
+        }
     }
 }

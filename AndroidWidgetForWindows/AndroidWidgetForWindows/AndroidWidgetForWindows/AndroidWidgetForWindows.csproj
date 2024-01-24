@@ -10,13 +10,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="button.png" />
     <None Remove="coding.png" />
+    <None Remove="cross.png" />
+    <None Remove="downloads.png" />
     <None Remove="import.png" />
     <None Remove="widget.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="button.png" />
     <Resource Include="coding.png" />
+    <Resource Include="cross.png" />
+    <Resource Include="downloads.png" />
     <Resource Include="import.png" />
     <Resource Include="widget.png" />
   </ItemGroup>
