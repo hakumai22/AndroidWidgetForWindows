@@ -1,4 +1,4 @@
-# This application is in the development stage
+# This application is in the development stage.
 # このアプリは開発段階です... 
 ## English
 ## *[download link(stable)](https://github.com/hakumai22/AndroidWidgetForWindows/raw/master/Download%20this.zip) [download link(alpha)](https://github.com/hakumai22/AndroidWidgetForWindows/raw/master/Download%20this.zip)*
