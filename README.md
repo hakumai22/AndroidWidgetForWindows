@@ -2,7 +2,7 @@
 # このアプリは開発段階です... 
 ## English
 ## *[download link(stable)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-stable/Binary.zip) [download link(alpha)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-alpha/Binary.zip)*
-## What the different of stable and alpha  
+## What the different of stable and alpha<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⭐</font></font>  
 |  | Stable | alpha |  
 |---------|---------|---------|  
 | Stability | higher | lower |
