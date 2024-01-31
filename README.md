@@ -1,7 +1,10 @@
 # This application is in the development stage.
 # このアプリは開発段階です... 
 ## English
-## *[download link(stable)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-stable/Binary.zip) [download link(alpha)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-alpha/Binary.zip)*
+## *[download link(stable)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-stable/Binary.zip) [download link(alpha)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-alpha/Binary.zip)* 
+## Download Steps(01/30/2024 Current)
+### 1. Download from the link above, or see the table below if you are not sure whether to download the STABLE version or the ALPHA version.
+### 2. 
 ## What the different of stable and alpha<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⭐</font></font>  
 |  | Stable | alpha |  
 |---------|---------|---------|  
@@ -13,7 +16,7 @@
 ### :rotating_light:‼️Warning!‼️:rotating_light:  
 ## 日本語
 ## *[ダウンロード(安定板)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-stable/Binary.zip) [ダウンロード(アルファ版)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-alpha/Binary.zip)*
-## 安定板とアルファ版の違い  
+## 安定板とアルファ版の違い<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⭐</font></font>   
 |  | 安定板 | アルファ版 |  
 |---------|---------|---------|  
 | 安定性 | 高い | 低い |
