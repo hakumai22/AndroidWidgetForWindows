@@ -10,6 +10,7 @@
 
     <Grid>
         <Label Content="                   Hello!" Margin="0,182,0,182" FontSize="48"/>
+        <Label Content="This is Home." Margin="276,260,276,142" FontWeight="Bold"/>
 
     </Grid>
 </Page>

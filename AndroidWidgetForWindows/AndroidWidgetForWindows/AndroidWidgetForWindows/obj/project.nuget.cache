@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OtsfMzuiR149saQ+bzFub2EQ8VIhdyTHq2+fcmm6hs1FSHUeBZHqCOwIhy66aBp/yJR952r/BC6MBTfEmNyFXg==",
+  "dgSpecHash": "jVakI5ErnT4RVeBp9grJMs+VbT6rLK2GfsMHpZVWsRl5AECf/jSLZ8pBxjXgZsjQlEOCEC00KC1RZnM0OZb/jw==",
   "success": true,
   "projectFilePath": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.web.webview2\\1.0.2357-prerelease\\microsoft.web.webview2.1.0.2357-prerelease.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

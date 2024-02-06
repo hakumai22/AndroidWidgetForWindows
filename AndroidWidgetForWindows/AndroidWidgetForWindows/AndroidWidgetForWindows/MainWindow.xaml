@@ -101,17 +101,17 @@
         <Label Content="  import" Margin="62,10,635,10" Grid.Row="1" Grid.ColumnSpan="3" FontSize="18" Foreground="White"/>
         <Rectangle HorizontalAlignment="Left" Height="62.5" Stroke="Black" VerticalAlignment="Center" Width="62.5"/>
         <Label Content="Label" Grid.Column="2" Margin="0,0,573,62.5" Grid.RowSpan="2" Grid.Row="1"/>
-        <Label Content="  Home" Grid.Column="2" Grid.ColumnSpan="2" Margin="267,62.5,268,0" Grid.RowSpan="2" RenderTransformOrigin="0.572,-0.064" Width="100" Height="62.5" FontSize="24"/>
+        <Label Content="" Grid.Column="2" Grid.ColumnSpan="2" Margin="267,62.5,268,0" Grid.RowSpan="2" RenderTransformOrigin="0.572,-0.064" Width="100" Height="62.5" FontSize="24"/>
         <Label Content="        Import" Margin="62.5,16,317,14" Grid.ColumnSpan="3" FontWeight="Bold" Grid.Row="1"/>
         <Image HorizontalAlignment="Center" Height="62.5" Grid.Row="2" VerticalAlignment="Center" Width="62.5" Source="/coding.png"/>
         <Label Content="   Development" Grid.ColumnSpan="2" Margin="0,15,317,15" Grid.Row="2" Grid.Column="1" FontWeight="Bold"/>
         <Rectangle Grid.RowSpan="2" Stroke="Black" Margin="0,0,0,62.5" Grid.Row="2" Width="62.5" Height="62.5"/>
         <Frame x:Name="Frame1" NavigationUIVisibility="Hidden" Grid.Column="2" Grid.RowSpan="7" Grid.ColumnSpan="2" Width="637.5" Height="437.5" Grid.Row="1"/>
-        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,62.5,316,62.5" Grid.RowSpan="3" Grid.ColumnSpan="3" Background="#01010101"/>
+        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,62.5,316,62.5" Grid.RowSpan="3" Grid.ColumnSpan="3" Background="#01010101" Click="Import_click"/>
         <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,0,316,0" Grid.ColumnSpan="3" Background="#01010101" Grid.Row="2" Width="165.5" Height="62.5"/>
         <Label Content="     Download" Grid.ColumnSpan="3" Margin="62.5,18,317,18" Grid.Row="3"/>
 
-        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,0,317,0" Grid.Row="3" Grid.ColumnSpan="3" Background="#01010101"/>
+        <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,0,317,0" Grid.Row="3" Grid.ColumnSpan="3" Background="#01010101" Click="Download_click"/>
         <Image Grid.Row="3" Width="62" Height="62" Source="/downloads.png"/>
         <Rectangle Grid.RowSpan="2" Stroke="Black" Margin="0,62,0,0" Grid.Row="2"/>
         <Button Content="" Style="{DynamicResource ButtonStyle1}" Background="#01010101" Click="Button_Click"/>

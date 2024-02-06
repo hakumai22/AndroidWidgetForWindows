@@ -5,7 +5,104 @@
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v8.0": {}
+    ".NETCoreApp,Version=v8.0": {
+      "cef.redist.x64/120.2.7": {},
+      "cef.redist.x86/120.2.7": {},
+      "CefSharp.Common/120.2.70": {
+        "dependencies": {
+          "cef.redist.x64": "120.2.7",
+          "cef.redist.x86": "120.2.7"
+        }
+      },
+      "CefSharp.Wpf/120.2.70": {
+        "dependencies": {
+          "CefSharp.Common": "120.2.70"
+        },
+        "runtime": {
+          "lib/net462/CefSharp.Wpf.dll": {
+            "assemblyVersion": "120.2.70.0",
+            "fileVersion": "120.2.70.0"
+          }
+        }
+      },
+      "Microsoft-WindowsAPICodePack-Core/1.1.5": {
+        "runtime": {
+          "lib/net7.0-windows7.0/Microsoft.WindowsAPICodePack.dll": {
+            "assemblyVersion": "1.1.5.0",
+            "fileVersion": "1.1.5.0"
+          }
+        }
+      },
+      "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
+        "dependencies": {
+          "Microsoft-WindowsAPICodePack-Core": "1.1.5"
+        },
+        "runtime": {
+          "lib/net7.0-windows7.0/Microsoft.WindowsAPICodePack.Shell.dll": {
+            "assemblyVersion": "1.1.5.0",
+            "fileVersion": "1.1.5.0"
+          }
+        }
+      },
+      "WpfAnimatedGif/2.0.2": {
+        "runtime": {
+          "lib/netcoreapp3.0/WpfAnimatedGif.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.2.0"
+          }
+        }
+      }
+    }
   },
-  "libraries": {}
+  "libraries": {
+    "cef.redist.x64/120.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xeR5iCVxrWvWtvRdylmTJsKoqisCuWzlHjY3Q1hwwbfKce2H/xFv4ZyJ5D0vITBTYvAxT1ho2THRgoIuO0PBuA==",
+      "path": "cef.redist.x64/120.2.7",
+      "hashPath": "cef.redist.x64.120.2.7.nupkg.sha512"
+    },
+    "cef.redist.x86/120.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IdvC+lWtS3m113/GcFKqoJooFR1LWkFUWj7O4onJf7n4O0Tf93FuqB17eW7SiKzqGX1pWKmoakZApnbhVuMveQ==",
+      "path": "cef.redist.x86/120.2.7",
+      "hashPath": "cef.redist.x86.120.2.7.nupkg.sha512"
+    },
+    "CefSharp.Common/120.2.70": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V4bWO8Lc9Dm4/LFZxZBJOfbUVpTZorph1+EPUOTiB1dCYQGhysNECazQ8u4SEGAxR16UgFbOspHFEyzmDA7HZg==",
+      "path": "cefsharp.common/120.2.70",
+      "hashPath": "cefsharp.common.120.2.70.nupkg.sha512"
+    },
+    "CefSharp.Wpf/120.2.70": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fVnl9zjz4zZP4shZ0LdST0l8Ycg8tQ/3i8iKpS0d7YbaAIw+wSGOOiZnEwqrDV2pG3yDAGlHLNAzaNXjSTpPqQ==",
+      "path": "cefsharp.wpf/120.2.70",
+      "hashPath": "cefsharp.wpf.120.2.70.nupkg.sha512"
+    },
+    "Microsoft-WindowsAPICodePack-Core/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3feeT5wxrH/T4YmoZwCglVrUw6aS4+WJLA3FRADLVT2J85/zjptrCikvGNcLI1+gDeoI1AZ4w45gF2FvBv6eQw==",
+      "path": "microsoft-windowsapicodepack-core/1.1.5",
+      "hashPath": "microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512"
+    },
+    "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lZ+oIxvTp1Ph0YrzFl3AKcrry7OCfi0awf43nrGwodWqDlFASktZ+pN532rbU/5o09irYjxVu1m3UxO5L1H8fw==",
+      "path": "microsoft-windowsapicodepack-shell/1.1.5",
+      "hashPath": "microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
+    },
+    "WpfAnimatedGif/2.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B0j9SqtThyHVTiOPvu6yR+39Te0g3o+7Jjb+qEm7+Iz1HRqbE5/4QV+ntHWOYYBPOUFr9x1mdzGl/EzWP+nKiA==",
+      "path": "wpfanimatedgif/2.0.2",
+      "hashPath": "wpfanimatedgif.2.0.2.nupkg.sha512"
+    }
+  }
 }

@@ -69,9 +69,9 @@
     <Grid>
         <Label Content=" AndroidWidgetForWindows" Margin="0,88,0,612" FontSize="36" FontWeight="Bold"/>
         <Image Height="100" Source="/widget.png" Margin="200,10,200,690" Stretch="UniformToFill" Width="100" StretchDirection="DownOnly" />
-        <Button Style="{DynamicResource ButtonStyle1}" Background="#01010101" Margin="0,138,0,562" Height="100" Click="Button_Click">
-        </Button>
         <Image Width="100" Source="/cross.png" RenderTransformOrigin="0.5,-0.12" Margin="200,163,200,587"/>
+        <Label Content="Version 0.0.1.1-alpha" Margin="181,138,181,637" FontWeight="Bold" FontSize="14" Width="138" Height="25"/>
+        <Button Style="{DynamicResource ButtonStyle1}" Background="#01010101" Margin="0,138,0,562" Height="100" Click="Button_Click"/>
 
     </Grid>
 </Window>
