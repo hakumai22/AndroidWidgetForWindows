@@ -1,5 +1,5 @@
-# This application is in the development stage.
-# このアプリは開発段階です... 
+# This application is in the development stage. It has not yet been effective in execution.
+# このアプリは開発段階です... 実行してもまだ効果がないです。
 ## English(下に日本語版があります)
 ## *[download link(stable)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-stable/Binary.zip) [download link(alpha)](https://github.com/hakumai22/AndroidWidgetForWindows/releases/download/v0.0.1-alpha/Binary.zip)* 
 ## Install Steps(01/30/2024 Current)
