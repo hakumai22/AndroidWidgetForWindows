@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34321.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AndroidWidgetForWindows", "AndroidWidgetForWindows\AndroidWidgetForWindows.csproj", "{6403B947-B3FD-484E-9000-22176A182461}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWFWCore", "AWFWCore\AWFWCore.csproj", "{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{6403B947-B3FD-484E-9000-22176A182461}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6403B947-B3FD-484E-9000-22176A182461}.Release|x64.ActiveCfg = Release|x64
 		{6403B947-B3FD-484E-9000-22176A182461}.Release|x64.Build.0 = Release|x64
+		{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}.Debug|x64.Build.0 = Debug|Any CPU
+		{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}.Release|x64.ActiveCfg = Release|Any CPU
+		{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
