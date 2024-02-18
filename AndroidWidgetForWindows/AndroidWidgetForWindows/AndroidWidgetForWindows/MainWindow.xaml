@@ -113,9 +113,11 @@
         <Image Grid.Row="3" Width="62" Height="62" Source="/downloads.png"/>
         <!--Image Finish-->
         <Frame x:Name="Frame1" NavigationUIVisibility="Hidden" Grid.Column="2" Grid.RowSpan="7" Grid.ColumnSpan="2" Width="637.5" Height="437.5" Grid.Row="1"/>
+        <!--Button Start-->
         <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,62.5,316,62.5" Grid.RowSpan="3" Grid.ColumnSpan="3" Background="#01010101" Click="Import_click"/>
         <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,0,316,0" Grid.ColumnSpan="3" Background="#01010101" Grid.Row="2" Width="165.5" Height="62.5"/>
         <Button Style="{DynamicResource ButtonStyle1}" Content="" Margin="0,0,317,0" Grid.Row="3" Grid.ColumnSpan="3" Background="#01010101" Click="Download_click"/>
         <Button Content="" Style="{DynamicResource ButtonStyle1}" Background="#01010101" Click="Button_Click"/>
+        <!--Button Finish-->
     </Grid>
 </Window>
