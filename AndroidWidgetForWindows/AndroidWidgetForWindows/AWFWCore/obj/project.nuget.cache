@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KHvdfZmfdE0qb9+XMIcECxQFGazLk8Y9Mg08wkI9CWjMPuz9puB5ht8f0MjVI+jFW6AfE6gvITGfdJ5L1Ej51g==",
+  "dgSpecHash": "wXx9OKbyCRatkEK5KwPGwmvtm0pkg7/dLW91G2xWaS/j2O8T8LHLSnKynoDlbNowhtVVtljqjoM+H4MZWrCVIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\AWFWCore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\coro5\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
   "logs": []
 }
