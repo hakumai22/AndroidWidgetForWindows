@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DgYBxRo4CmIqb4rnH5cC5KdNmCnxg/3PkCN+s/1YGVhAObVfEEOdTwG2RXlAbZqrG5rpz669Xt9L2VC8owgsoA==",
+  "dgSpecHash": "tE7MIel0lSB/+or5rXL6G0WVigAGsGzWHlsv8BpHZYOcsG0xv2atZ6yK5jwXES3LNo7wOAGV/ieiszvKWMgHew==",
   "success": true,
   "projectFilePath": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,10 @@
     "C:\\Users\\coro5\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512",
     "C:\\Users\\coro5\\.nuget\\packages\\microsoft.web.webview2\\1.0.2357-prerelease\\microsoft.web.webview2.1.0.2357-prerelease.nupkg.sha512",
     "C:\\Users\\coro5\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512",
     "C:\\Users\\coro5\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
   ],
   "logs": []

@@ -11,8 +11,20 @@
       "RelativeMoniker": "D:0:0:{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}|AWFWCore\\AWFWCore.csproj|solutionrelative:awfwcore\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}|AWFWCore\\AWFWCore.csproj|c:\\users\\coro5\\documents\\github\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\awfwcore\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}|AWFWCore\\AWFWCore.csproj|solutionrelative:awfwcore\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}|AWFWCore\\AWFWCore.csproj|c:\\users\\coro5\\documents\\github\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\awfwcore\\argsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}|AWFWCore\\AWFWCore.csproj|solutionrelative:awfwcore\\argsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}|AWFWCore\\AWFWCore.csproj|c:\\users\\coro5\\documents\\github\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\awfwcore\\widget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774A5FE3-E68A-4B3D-B86E-7581F74DC41C}|AWFWCore\\AWFWCore.csproj|solutionrelative:awfwcore\\widget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|c:\\users\\coro5\\documents\\github\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|solutionrelative:androidwidgetforwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|c:\\users\\coro5\\documents\\github\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|c:\\users\\coro5\\documents\\github\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|solutionrelative:androidwidgetforwindows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|c:\\users\\coro5\\documents\\github\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\androidwidgetforwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6403B947-B3FD-484E-9000-22176A182461}|AndroidWidgetForWindows\\AndroidWidgetForWindows.csproj|solutionrelative:androidwidgetforwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,8 +60,34 @@
         },
         {
           "DockedWidth": 327,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Program.cs",
+              "RelativeDocumentMoniker": "AWFWCore\\Program.cs",
+              "ToolTip": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Program.cs",
+              "RelativeToolTip": "AWFWCore\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T01:23:32.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filereader.cs",
+              "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Filereader.cs",
+              "RelativeDocumentMoniker": "AWFWCore\\Filereader.cs",
+              "ToolTip": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Filereader.cs",
+              "RelativeToolTip": "AWFWCore\\Filereader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:34:08.056Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -62,27 +96,38 @@
               "RelativeDocumentMoniker": "AWFWCore\\Core.cs",
               "ToolTip": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Core.cs",
               "RelativeToolTip": "AWFWCore\\Core.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T11:56:36.663Z",
+              "WhenOpened": "2024-03-05T11:53:15.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Widget.cs",
+              "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Widget.cs",
+              "RelativeDocumentMoniker": "AWFWCore\\Widget.cs",
+              "ToolTip": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Widget.cs",
+              "RelativeToolTip": "AWFWCore\\Widget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:24:52.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ArgsOptions.cs",
               "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\ArgsOptions.cs",
               "RelativeDocumentMoniker": "AWFWCore\\ArgsOptions.cs",
               "ToolTip": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\ArgsOptions.cs",
               "RelativeToolTip": "AWFWCore\\ArgsOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T11:02:09.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T11:02:09.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AndroidWidgetForWindows\\MainWindow.xaml",
@@ -93,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AndroidWidgetForWindows\\MainWindow.xaml.cs",
@@ -105,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AndroidWidgetForWindows\\MainWindow.xaml",
@@ -117,20 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Program.cs",
-              "RelativeDocumentMoniker": "AWFWCore\\Program.cs",
-              "ToolTip": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\Program.cs",
-              "RelativeToolTip": "AWFWCore\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T11:00:44.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Page1.xaml",
               "DocumentMoniker": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\Page1.xaml",
               "RelativeDocumentMoniker": "AndroidWidgetForWindows\\Page1.xaml",

@@ -1,0 +1,8 @@
+{
+    "name":"hakumai",
+    "version" :{
+        "core":"canary",
+        "jsonver":"1"
+    }
+    
+}
