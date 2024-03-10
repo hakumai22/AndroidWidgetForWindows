@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wXx9OKbyCRatkEK5KwPGwmvtm0pkg7/dLW91G2xWaS/j2O8T8LHLSnKynoDlbNowhtVVtljqjoM+H4MZWrCVIQ==",
+  "dgSpecHash": "wcFjvd20LZmmYqDFtd9wE1O3WhbVQoeW68cwPm7vJ8st/6c0DrQWqQCIGXnrkvm1f3YlQEnAu/hkRkw+ZcUhog==",
   "success": true,
   "projectFilePath": "C:\\Users\\coro5\\Documents\\GitHub\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AndroidWidgetForWindows\\AWFWCore\\AWFWCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\coro5\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+    "C:\\Users\\coro5\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\coro5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
