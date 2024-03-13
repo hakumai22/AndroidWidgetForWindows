@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AndroidWidgetForWindows")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c6546a0c3713a8df9de6b0e3302ea8e5f25972e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+771ccd2a41e630ec2f2052611a20026cb21d362b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AndroidWidgetForWindows")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AndroidWidgetForWindows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
